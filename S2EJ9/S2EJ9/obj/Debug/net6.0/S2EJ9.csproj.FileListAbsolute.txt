@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\bin\Debug\net6.0\S2EJ9.exe
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\bin\Debug\net6.0\S2EJ9.deps.json
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\bin\Debug\net6.0\S2EJ9.runtimeconfig.json
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\bin\Debug\net6.0\S2EJ9.dll
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\bin\Debug\net6.0\S2EJ9.pdb
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.dll
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\refint\S2EJ9.dll
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.pdb
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\S2EJ9.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\S2EJ9\S2EJ9\obj\Debug\net6.0\ref\S2EJ9.dll
